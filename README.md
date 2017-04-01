@@ -1,6 +1,8 @@
+![Awesome Grid Layout](awesome-grid-layout.png)
+
 # :globe_with_meridians: :raising_hand: Awesome Grid Layout
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!-- [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) -->
 
 > A curated list of CSS Grid Layout Module or only Css Grid.
 Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
