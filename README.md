@@ -42,6 +42,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 
 ## Books
 * [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
+* [Get Ready For CSS Grid Layout - Rachel Andrew](https://abookapart.com/products/get-ready-for-css-grid-layout)
 * [Grid Layout in CSS, Interface Layout for the WEB- Eric A. Meyer](www.ebook-dl.com)
 
 ## Guides
@@ -57,6 +58,9 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [CSS Grid Layout 2014 Recap: Implementation Status](http://blogs.igalia.com/mrego/2015/01/08/css-grid-layout-2014-recap-implementation-status/)
 * [CSS Grid Layout: getting to grips with the Chrome implementation](http://rachelandrew.co.uk/archives/2014/06/27/css-grid-layout-getting-to-grips-with-the-chrome-implementation/)
 * [Deep Dive into Grid Layout Placement](http://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_27)
+* [CSS Grid Layout is Here to Stay](http://blogs.igalia.com/mrego/2017/03/16/css-grid-layout-is-here-to-stay/)
+* [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/)
+* 
 
 #### Support
 * [Enable CSS Grid Layout](http://igalia.github.io/css-grid-layout/enable.html)
@@ -110,6 +114,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [Grid by Example - Rachel Andrew](http://gridbyexample.com/)
 * [CSS Grid Layout Examples - igalia](https://igalia.github.io/css-grid-layout/index.html) - Several examples showing different CSS Grid Layout use cases.
 * [CSS Grid overlay sample - Microsoft Developer Network](https://code.msdn.microsoft.com/ie/Grid-overlay-b183a5a8) - The Creating an overlay with the CSS grid example demonstrates the basics of putting text over an image using only a few lines of CSS and HTML.
+* [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/)
 
 ## Courses
 * []() - xxxxx
