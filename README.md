@@ -1,7 +1,7 @@
 ![Awesome Grid Layout](awesome-grid-layout.png)
 
 [![Build Status](https://travis-ci.org/simoneas02/awesome-grid-layout.svg?branch=master)](https://travis-ci.org/simoneas02/awesome-grid-layout)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!--[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)-->
 
 > A curated list of CSS Grid Layout Module or only Css Grid.
 Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
@@ -48,6 +48,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [Grid Layout - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/hh772052.aspx)
 * [A Complete Guide to CSS Grid Layout - by Chris House](http://chris.house/blog/a-complete-guide-css-grid-layout/)
 * [An Introduction to the CSS Grid Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/)
+* [Griddy](http://www.griddy.io/)
 
 ## Cross Browser
 *Tips and tricks for your projects work anywhere :D*
@@ -62,7 +63,6 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/)
 * [Y'know CSS was to kill off HTML table layout? Well, second time's a charm: Meet CSS Grid](https://www.theregister.co.uk/2017/03/31/css_grids_browser_support/?mt=1491837806465)
 * [Initial Impressions of CSS Grid Layout](https://daverupert.com/2017/03/initial-impressions-of-css-grid/)
-* [Building a CSS Grid Overlay](https://css-tricks.com/building-css-grid-overlay/)
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/)
 
 #### Support
