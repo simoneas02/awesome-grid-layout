@@ -37,7 +37,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [CSS Weekly](http://css-weekly.com/)
 
 ## Books
-* [CSS3 Layout Modules 2nd Edition - Rachel Andrew](http://rachelandrew.co.uk/books/css3-layout-modules)
+* [CSS3 Layout Modules 2nd Edition - Rachel Andrew](https://rachelandrew.co.uk/books/css3-layout-modules)
 * [Get Ready For CSS Grid Layout - Rachel Andrew](https://abookapart.com/products/get-ready-for-css-grid-layout)
 * [Grid Layout in CSS, Interface Layout for the WEB- Eric A. Meyer](http://shop.oreilly.com/product/0636920041696.do)
 
@@ -67,10 +67,6 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 
 #### Support
 * [Caniuse](http://caniuse.com/#search=css%20grid%20layout)
-
-#### Polyfills
-* [CSS Grid Polyfill](https://github.com/FremyCompany/css-grid-polyfill)
-* [Grid Layout Polyfill](https://github.com/codler/Grid-Layout-Polyfill)
 
 ## Other Interesting Articles
 *A list of issues related to CSS Grid.*
