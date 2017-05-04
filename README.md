@@ -1,7 +1,7 @@
 ![Awesome Grid Layout](awesome-grid-layout.png)
 
 [![Build Status](https://travis-ci.org/simoneas02/awesome-grid-layout.svg?branch=master)](https://travis-ci.org/simoneas02/awesome-grid-layout)
-<!--[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)-->
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of CSS Grid Layout Module or only Css Grid.
 Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
