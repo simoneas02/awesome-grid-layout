@@ -31,20 +31,20 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 
 
 ## Newsletter
-* [CSS Layout News](http://csslayout.news/) - A weekly collection of tutorials, news and information on all things CSS Layout.
-* [CSS Weekly](http://css-weekly.com/) - weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
+* [CSS Layout News](http://csslayout.news/) - Weekly collection of tutorials, news and information on all things CSS Layout.
+* [CSS Weekly](http://css-weekly.com/) - Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 
 ## Books
-* [CSS3 Layout Modules 2nd Edition - Rachel Andrew](https://rachelandrew.co.uk/books/css3-layout-modules) - LEARN ABOUT THE NEW WAYS TO DO LAYOUT IN CSS.
-* [Get Ready For CSS Grid Layout - Rachel Andrew](https://abookapart.com/products/get-ready-for-css-grid-layout) - A detailed explanation of the CSS Grid Layout spec and working examples you can experiment with right away.
+* [CSS3 Layout Modules 2nd Edition - Rachel Andrew](https://rachelandrew.co.uk/books/css3-layout-modules) - Learn about the new ways to do layout in css.
+* [Get Ready For CSS Grid Layout - Rachel Andrew](https://abookapart.com/products/get-ready-for-css-grid-layout) - Detailed explanation of the CSS Grid Layout spec and working examples you can experiment with right away.
 * [Grid Layout in CSS, Interface Layout for the WEB - Eric A. Meyer](http://shop.oreilly.com/product/0636920041696.do) - With this concise guide, you’ll learn how to use CSS grid layout, a generalized system that lets you lay out pieces of your design independent of their document source order and with full awareness of the overall design.
 
 ## Guides
 *Guides for developers or designer start their studies this wonderful technology.*
-* [Grid layout - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/hh673533.aspx) - A guide of the Microsoft about CSS Grid.
+* [Grid layout - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/hh673533.aspx) - Guide of the Microsoft about CSS Grid.
 * [A Complete Guide to Grid - CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - This article was ported over from Chris House's guide, by Chris himself, who is keeping both up-to-date.
-* [Grid Layout - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/hh772052.aspx) - A section that describes features related to Grid Layout.
-* [A Complete Guide to CSS Grid Layout - by Chris House](http://chris.house/blog/a-complete-guide-css-grid-layout/) - A Complete Guide to CSS Grid Layout.
+* [Grid Layout - Microsoft Developer Network](https://msdn.microsoft.com/en-us/library/hh772052.aspx) - Section that describes features related to Grid Layout.
+* [A Complete Guide to CSS Grid Layout - by Chris House](http://chris.house/blog/a-complete-guide-css-grid-layout/) - Complete Guide to CSS Grid Layout.
 * [An Introduction to the CSS Grid Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/) - This is an introductory tutorial, it’ll introduce you to this relatively new CSS feature, it’ll discuss the current browser support, and it’ll show you using some examples how the CSS Grid Layout Module works.
 * [Griddy](http://www.griddy.io/) - Learn the CSS Grid!
 
@@ -57,7 +57,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/) - Grid is much newer than Flexbox and has a bit less browser support. That's why it makes perfect sense if people are wondering if CSS grid is here to replace Flexbox.
 * [CSS Grid Layout and Accessibility](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/CSS_Grid_Layout_and_Accessibility) - Is it possible that we could create an accessibility issue through our use of grids?
 * [CSS Grid Layout: A New Layout Module for the Web](https://webkit.org/blog/7434/css-grid-layout-a-new-layout-module-for-the-web/?utm_content=buffer3adcf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - This is just an introductory blog post about Grid Layout, not a deep review of all the different features that it provides: that would require much more than a single post. 
-* [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/) -  this post isn’t going to be a full on how-to guide, but instead about why CSS grid is so good! Hopefully it’ll convince you to give it a try!
+* [3 CSS Grid Features That Make My Heart Flutter](https://una.im/css-grid/) -  This post isn’t going to be a full on how-to guide, but instead about why CSS grid is so good! Hopefully it’ll convince you to give it a try!
 * [Y'know CSS was to kill off HTML table layout? Well, second time's a charm: Meet CSS Grid](https://www.theregister.co.uk/2017/03/31/css_grids_browser_support/?mt=1491837806465) - Browser makers unite to make web design great again!
 * [Initial Impressions of CSS Grid Layout](https://daverupert.com/2017/03/initial-impressions-of-css-grid/) - CSS Grid Layout just landed in Chrome and Firefox! It’s very exciting times for layout on the Web. We get about one new layout feature like this per decade, kids. Enjoy it.
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/) - CSS Grid Layout introduces a lot of new concepts; there are 17 new properties to learn, and many more new terms to understand. This can make getting started with CSS Grid Layout difficult, as new terms reference other terms and you can get into a spiral of confusion. So, here are the basic concepts and terminology of CSS Grid Layout, explained.
@@ -105,7 +105,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [The CSS Layout Workshop - By Rachel Andrew](https://thecssworkshop.com/courses) - If you are ever baffled by floats, puzzled by collapsing margins or want to understand what is happening under the hood of a framework, this course is for you.
 
 ## Who to Follow
-*People who talk about it.*
+*Follow the people who talk about Grid layout and keep up to date with news.*
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
 * Chris Coyier[@chriscoyier](https://twitter.com/chriscoyier)
 * Chris Heilmann[@codepo8](https://twitter.com/codepo8)
