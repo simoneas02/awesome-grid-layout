@@ -76,6 +76,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 *Tired of reading? See an interactive presentation and learn CSS Grid now.*
 
 #### Videos
+* [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s&t=58s) - Diogo Moretti - Vale do Carbono Conf.
 * [CSS Grid Layout - Front in Vale](https://www.youtube.com/watch?v=xvGRZo0x9Ao) - Diego Eis - FrontInVale 2015.
 * [CSS Grid Layout is Just Around the Corner](https://www.youtube.com/watch?v=9js_5MjiGFo) - Manuel Rego - CSS Conf 2015.
 * [CSS Grid Layout](https://rachelandrew.co.uk/archives/2015/07/17/css-grid-layout-at-css-day/?utm_content=bufferaf3e7&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Rachel Andrew - CSS Day 2015.
