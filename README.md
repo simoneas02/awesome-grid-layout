@@ -52,6 +52,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 *Tips and tricks for your projects work anywhere :D*
 
 #### Articles
+* [Powerful New Additions to the CSS Grid Inspector in Firefox Nightly](https://hacks.mozilla.org/2017/06/new-css-grid-layout-panel-in-firefox-nightly/?utm_source=dev-newsletter&utm_medium=email&utm_campaign=jun29-2017) - Firefox Developer Tools Layout panel, add powerful upgrades to the CSS Grid Inspector and Box Model.
 * [Deep Dive into Grid Layout Placement](http://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_27) - Comprehensive review of the different methods provided by CSS Grid Layout spec for items positioning.
 * [CSS Grid Layout is Here to Stay](http://blogs.igalia.com/mrego/2017/03/16/css-grid-layout-is-here-to-stay/) - The story behind CSS Grid Layout development in Chromium/Blink and Safari/WebKit performed by Igalia with Bloomberg's support.
 * [Does CSS Grid Replace Flexbox?](https://css-tricks.com/css-grid-replace-flexbox/) - Grid is much newer than Flexbox and has a bit less browser support. That's why it makes perfect sense if people are wondering if CSS grid is here to replace Flexbox.
@@ -76,6 +77,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 *Tired of reading? See an interactive presentation and learn CSS Grid now.*
 
 #### Videos
+* [An Introduction to CSS Grid by Jonathan Suh](https://www.youtube.com/watch?v=yJUriViLDCM) - Jonathan Suh - Full Stack Talks.
 * [CSS {Grid} Layout: It's evolution baby](https://www.youtube.com/watch?v=94aYg5D8N0s&t=58s) - Diogo Moretti - Vale do Carbono Conf.
 * [CSS Grid Layout - Front in Vale](https://www.youtube.com/watch?v=xvGRZo0x9Ao) - Diego Eis - FrontInVale 2015.
 * [CSS Grid Layout is Just Around the Corner](https://www.youtube.com/watch?v=9js_5MjiGFo) - Manuel Rego - CSS Conf 2015.
@@ -93,6 +95,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 
 ## Featured Projects
 *Awesome projects about CSS Grid.*
+* [Learning CSS Grid](http://learncssgrid.com/) - A guide to learning CSS grid by Jonathan Suh.
 * [Grid by Example - Rachel Andrew](http://gridbyexample.com/) - This site is a collection of examples, video and other information to help you learn CSS Grid Layout. Developed and maintained by Rachel Andrew.
 * [CSS Grid Layout Examples - igalia](https://igalia.github.io/css-grid-layout/index.html) - Several examples showing different CSS Grid Layout use cases.
 * [Case Study: My First Practical CSS Grid Layout](https://cloudfour.com/thinks/first-css-grid-layout/) - The Challenge by Tyler Sticka.
@@ -113,6 +116,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * Eric Meyer [@meyerweb](http://meyerweb.com/)
 * FrontEnd Daily[@FrontEndDaily](https://twitter.com/FrontEndDaily)
 * Jen Simmons [@jensimmons](http://jensimmons.com/)
+* Jonathan Suh [@jonsuh](https://twitter.com/jonsuh)
 * Manuel Rego[@regocas](https://twitter.com/regocas)
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Simone Amorim [@samorim02](https://twitter.com/@samorim02)
