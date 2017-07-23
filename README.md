@@ -111,16 +111,16 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 ## Who to Follow
 *Follow the people who talk about Grid layout and keep up to date with news.*
 * Afonso Pacifer [@afonsopacifer](https://twitter.com/afonsopacifer)
-* Chris Coyier[@chriscoyier](https://twitter.com/chriscoyier)
-* Chris Heilmann[@codepo8](https://twitter.com/codepo8)
+* Chris Coyier [@chriscoyier](https://twitter.com/chriscoyier)
+* Chris Heilmann [@codepo8](https://twitter.com/codepo8)
 * Eric Meyer [@meyerweb](http://meyerweb.com/)
-* FrontEnd Daily[@FrontEndDaily](https://twitter.com/FrontEndDaily)
+* FrontEnd Daily [@FrontEndDaily](https://twitter.com/FrontEndDaily)
 * Jen Simmons [@jensimmons](http://jensimmons.com/)
 * Jonathan Suh [@jonsuh](https://twitter.com/jonsuh)
-* Manuel Rego[@regocas](https://twitter.com/regocas)
+* Manuel Rego [@regocas](https://twitter.com/regocas)
 * Rachel Andrew [@rachelandrew](https://twitter.com/rachelandrew)
 * Simone Amorim [@samorim02](https://twitter.com/@samorim02)
-* Thomas H. Park[@thomashpark](https://twitter.com/thomashpark)
+* Thomas H. Park [@thomashpark](https://twitter.com/thomashpark)
 
 ## Contributing
 Want to contribute? [Follow these recommendations](https://github.com/simoneas02/awesome-grid-layout/blob/master/contributing.md).
