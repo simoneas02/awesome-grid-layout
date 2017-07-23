@@ -104,6 +104,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [Getting to know CSS](https://cm.engineering/getting-to-know-css-grid-layout-818e43ca71a5) - Just a fraction of the basics about Grid Layout - Chris Wright.
 * [Playing with CSS Grids](https://14islands.com/blog/2017/03/07/playing-with-CSS-grids/) - Front-end design is finally making print-like design easier to achieve - Marco Barbosa.
 * [GRID GARDEN](http://cssgridgarden.com/?utm_campaign=CSS%2BLayout%2BNews&utm_medium=web&utm_source=CSS_Layout_News_88) - A game for learning CSS grid layout - Thomas Park.
+* [CSS Grid Ask Me Anything](https://github.com/rachelandrew/cssgrid-ama) - This project means Rachel Andrew can answer things once and benefit more people!
 
 ## Courses
 * [The CSS Layout Workshop - By Rachel Andrew](https://thecssworkshop.com/courses) - If you are ever baffled by floats, puzzled by collapsing margins or want to understand what is happening under the hood of a framework, this course is for you.
