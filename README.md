@@ -47,6 +47,9 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [A Complete Guide to CSS Grid Layout - by Chris House](http://chris.house/blog/a-complete-guide-css-grid-layout/) - Complete Guide to CSS Grid Layout.
 * [An Introduction to the CSS Grid Layout Module](https://www.sitepoint.com/introduction-css-grid-layout-module/) - This is an introductory tutorial, it’ll introduce you to this relatively new CSS feature, it’ll discuss the current browser support, and it’ll show you using some examples how the CSS Grid Layout Module works.
 * [Griddy](http://www.griddy.io/) - Learn the CSS Grid!
+* [Learn CSS Grid.com/](https://learncssgrid.com/) - A guide to learning CSS grid by [Jonsuh](https://twitter.com/jonsuh)
+* [CSS Grid is a two-dimensional layout system created specifically to tackle grid-based user interfaces on the web.](https://tympanus.net/codrops/css_reference/grid/) - introduces a series of properties that allow us to create grid structures and control the placement and sizing of grid items using CSS.
+* [The CSS Grid](https://www.cssgrid.cc/) - A collection of resources & tools to help you manage the Grid.
 
 ## Cross Browser
 *Tips and tricks for your projects work anywhere :D*
