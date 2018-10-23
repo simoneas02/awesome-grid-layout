@@ -66,6 +66,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [Initial Impressions of CSS Grid Layout](https://daverupert.com/2017/03/initial-impressions-of-css-grid/) - CSS Grid Layout just landed in Chrome and Firefox! It’s very exciting times for layout on the Web. We get about one new layout feature like this per decade, kids. Enjoy it.
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/) - CSS Grid Layout introduces a lot of new concepts; there are 17 new properties to learn, and many more new terms to understand. This can make getting started with CSS Grid Layout difficult, as new terms reference other terms and you can get into a spiral of confusion. So, here are the basic concepts and terminology of CSS Grid Layout, explained.
 * [Adeus Flexbox! Bem-vindo CSS Grid Layout!](https://imasters.com.br/desenvolvimento/adeus-flexbox-bem-vindo-css-grid-layout/?trace=1519021197&source=main-menu) - Esse artigo descreve algumas features da especificação do CSS Grid Layout.
+* [Basic concepts of grid layout]()https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
 
 #### Support
 * [Caniuse](http://caniuse.com/#search=css%20grid%20layout) - Browser Support.
