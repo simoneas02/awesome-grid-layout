@@ -67,6 +67,7 @@ Inspired by [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox/)
 * [CSS Grid Layout Terminology, Explained](https://bitsofco.de/css-grid-terminology/) - CSS Grid Layout introduces a lot of new concepts; there are 17 new properties to learn, and many more new terms to understand. This can make getting started with CSS Grid Layout difficult, as new terms reference other terms and you can get into a spiral of confusion. So, here are the basic concepts and terminology of CSS Grid Layout, explained.
 * [Adeus Flexbox! Bem-vindo CSS Grid Layout!](https://imasters.com.br/desenvolvimento/adeus-flexbox-bem-vindo-css-grid-layout/?trace=1519021197&source=main-menu) - Esse artigo descreve algumas features da especificação do CSS Grid Layout.
 * [Basic concepts of grid layout]()https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
+* [Grid Level 2 and Subgrid by Rachel Andrew](https://rachelandrew.co.uk/archives/2018/04/27/grid-level-2-and-subgrid/)
 
 #### Support
 * [Caniuse](http://caniuse.com/#search=css%20grid%20layout) - Browser Support.
